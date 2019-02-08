@@ -1,0 +1,12 @@
+Button Controls:
+A - hard drop
+B - hold piece
+RB - rotate clockwise
+LB - rotate counter-clockwise
+Start - begin game after title display
+Select - reset game after game over
+
+D-pad:
+Left - move left
+Right - move right
+Down - soft drop
